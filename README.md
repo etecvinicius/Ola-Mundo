@@ -24,3 +24,10 @@ Essa linha eu adicionei diretamente no site! **QUE IMPRESSIONANTE!**
    1. Lua padrão
 3. Rust
 4. JavaScript
+
+## Jornada
+
+- [ ] Aprender uma linguagem de baixo nível (próxima ao *hardware*, como Rust ou C)
+- [ ] Aprender sobre o funcionamento de sistemas operacionais (kernel, shell, bootloader, interface gráfica, etc.)
+- [ ] Analisar e compreender projetos independentes com êxito
+- [ ] Programar meu próprio sistema operacional
