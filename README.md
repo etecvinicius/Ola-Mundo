@@ -4,8 +4,6 @@
 
 ## Repositório do curso
 
-***
-
 Primeiro repositório do curso de Git e GitHub
 
 Repositório criado durante uma aula ao vivo!
@@ -13,8 +11,6 @@ Repositório criado durante uma aula ao vivo!
 Essa linha eu adicionei diretamente no site! **QUE IMPRESSIONANTE!**
 
 ## Markdown é essencial
-
-***
 
 É uma linguagem de marcação (não de programação) útil para _organizar e estruturar seus textos via formatação._
 
