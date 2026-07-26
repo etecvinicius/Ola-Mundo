@@ -31,3 +31,9 @@ Essa linha eu adicionei diretamente no site! **QUE IMPRESSIONANTE!**
 - [ ] Aprofundar conhecimentos sobre o funcionamento de sistemas operacionais (kernel, shell, bootloader, interface gráfica, etc.)
 - [ ] Analisar e compreender projetos independentes com êxito, com destaque para seus erros e limitações
 - [ ] Iniciar a escrever meu próprio sistema operacional
+
+Termo | Definição | Exemplos
+---|---|---
+_Hardware_ | Componentes físicos, responsáveis pela execução de tarefas. | Monitor, teclado, _mouse_, placa-mãe, processador, câmera.
+_Software_ | Componentes digitais, responsáveis pela comunicação entre usuário e _hardware_. | Sistema operacional, programas, aplicativos.
+_Peopleware_ | Componente humano, responsável pela utilização do computador. | Usuários, programadores, administradores de sistemas.
