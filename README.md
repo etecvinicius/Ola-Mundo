@@ -72,3 +72,5 @@ _Peopleware_ | Componente humano, responsável pela utilização do computador. 
 * `</p>`: fechamento do elemento de parágrafo;
 * `</body>`: fechamento do corpo da página;
 * `</html>`: fechamento do elemento-base da página.
+
+# GitHub :octocat:
