@@ -20,7 +20,7 @@ Essa linha eu adicionei diretamente no site! **QUE IMPRESSIONANTE!**
 
 1. Java
 2. Lua
-   3. Luau
-   4. Lua padrão
-5. Rust
-6. JavaScript
+   1. Luau
+   1. Lua padrão
+3. Rust
+4. JavaScript
